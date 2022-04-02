@@ -1,0 +1,15 @@
+{
+  "name": "q3",
+  "version": "1.0.0",
+  "description": "Redis pub sub implementation",
+  "main": "pub.js",
+  "scripts": {
+    "dev": "node pub.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "redis": "^4.0.6"
+  }
+}
